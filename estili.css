@@ -1,3 +1,11 @@
-body{
-    background-color: rgb(20, 157, 220);
+body {
+    background-color: rgb(132, 215, 253);
+}
+
+img {
+    width: 1000px;
+    height: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
